@@ -1,0 +1,19 @@
+<?php
+
+        <form name="Monnaie" method="post" action="saisie.php">
+            Entrez votre montant : <input type="text" name="pseudo"/> <br/>
+            <input type="submit" name="valider" value="OK"/>
+
+S = 
+
+
+
+
+
+
+
+
+
+for ($i = 1; $B <= $S; $i++) {
+    echo $i;
+}
